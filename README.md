@@ -1,6 +1,7 @@
 # Intro
 A simple CO2 display using the MH-Z19 sensor
 
+![Example Setup](https://raw.githubusercontent.com/kiu/simple-co2/master/simple-co2-02.jpg)
 
 # BOM
 
